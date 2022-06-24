@@ -1,0 +1,86 @@
+location_type,name,display_name,latitude,longitude
+City,York,"York, North Yorkshire, UK",53.958332,-1.080278
+City,Worcester,"Worcester, Worcestershire, UK",52.192001,-2.22
+City,Winchester,"Winchester, Hampshire, UK",51.063202,-1.308
+City,Wells,"Wells, South West England, UK",51.209,-2.647
+City,Wakefield,"Wakefield, West Yorkshire, UK",53.68,-1.49
+City,Truro,"Truro, Cornwall, UK",50.259998,-5.051
+City,Sunderland,"Sunderland, North East, UK",54.906101,-1.38113
+City,Sheffield,"Sheffield, South Yorkshire, UK",53.383331,-1.466667
+City,Salford,"Salford, North West, UK",53.483002,-2.2931
+City,St. Davids,"St. Davids, Wales, UK",51.882,-5.269
+City,St.Albans,"St.Albans, Hertfordshire, UK",51.755001,-0.336
+City,Ripon,"Ripon, North Yorkshire, UK",54.138,-1.524
+City,Portsmouth,"Portsmouth, Hampshire, UK",50.805832,-1.087222
+City,Perth,"Perth, Scotland, UK",56.396999,-3.437
+City,Nottingham,"Nottingham, UK",52.950001,-1.15
+City,Newry,"Newry, Northern Ireland, UK",54.175999,-6.349
+City,Newcastle Upon Tyne,"Newcastle Upon Tyne, UK",54.966667,-1.6
+City,Liverpool,"Liverpool, Merseyside, UK",53.400002,-2.983333
+City,Lincoln,"Lincoln, Lincolnshire, UK",53.234444,-0.538611
+City,Lichfield,"Lichfield, Staffordshire, UK",52.683498,-1.82653
+City,Leicester,"Leicester, the East Midlands, UK",52.633331,-1.133333
+City,Lancaster,"Lancaster, Lancashire, UK",54.047001,-2.801
+City,Hereford,"Hereford, Herefordshire, UK",52.056499,-2.716
+City,Gloucester,"Gloucester, Gloucestershire, UK",51.864445,-2.244444
+City,Glasgow,"Glasgow, Scotland, UK",55.860916,-4.251433
+City,Exeter,"Exeter, UK",50.716667,-3.533333
+City,Ely,"Ely, Cambridgeshire, UK",52.398056,0.262222
+City,Durham,"Durham, UK",54.7761,-1.5733
+City,Dundee,"Dundee, Scotland, UK",56.462002,-2.9707
+City,Derry,"Derry, Northern Ireland, UK",54.9958,-7.3074
+City,Derby,"Derby, Derbyshire, UK",52.916668,-1.466667
+City,Coventry,"Coventry, West Midlands, UK",52.408054,-1.510556
+City,Chichester,"Chichester, West Sussex, UK",50.836498,-0.7792
+City,Chester,"Chester, Chesire, UK",53.189999,-2.89
+City,Chelmsford,"Chelmsford, Essex, UK",51.736099,0.4798
+City,Carlisle,"Carlisle, North West, UK",54.890999,-2.944
+City,Canterbury,"Canterbury, Kent, UK",51.279999,1.08
+City,Cambridge,"Cambridge, Cambridgeshire, UK",52.205276,0.119167
+City,Brighton & Hove,"Brighton & Hove, East Sussex, UK",50.827778,-0.152778
+City,Bradford,"Bradford, West Yorkshire, UK",53.799999,-1.75
+City,Bath,"Bath, Somerset, UK",51.380001,-2.36
+City,Peterborough,"Peterborough, Cambridgeshire, UK",52.573921,-0.25083
+City,Elgin,"Elgin, Scotland, UK",57.653484,-3.335724
+City,Stoke-on-Trent,"Stoke-on-Trent, Staffordshire, UK",53.002666,-2.179404
+City,Solihull,"Solihull, Birmingham, UK",52.412811,-1.778197
+City,Cardiff,"Cardiff, Wales, UK",51.481583,-3.17909
+City,Eastbourne,"Eastbourne, East Sussex, UK",50.768036,0.290472
+City,Oxford,"Oxford, UK",51.752022,-1.257677
+City,London,"London, UK",51.509865,-0.118092
+City,Swindon,"Swindon, Swindon, UK",51.568535,-1.772232
+City,Gravesend,"Gravesend, Kent, UK",51.441883,0.370759
+City,Northampton,"Northampton, Northamptonshire, UK",52.240479,-0.902656
+City,Rugby,"Rugby, Warwickshire, UK",52.370876,-1.265032
+City,Sutton Coldfield,"Sutton Coldfield, West Midlands, UK",52.570385,-1.824042
+City,Harlow,"Harlow, Essex, UK",51.772938,0.10231
+City,Aberdeen,"Aberdeen, UK",57.149651,-2.099075
+City,Swansea,"Swansea, UK",51.621441,-3.943646
+City,Chesterfield,"Chesterfield, Derbyshire, UK",53.235046,-1.421629
+City,Lisburn,"Lisburn, Ireland, UK",54.50972,-6.0374
+City,Londonderry,"Londonderry, Derry, UK",55.006763,-7.318268
+City,Salisbury,"Salisbury, Wiltshire, UK",51.068787,-1.794472
+City,Manchester,"Manchester, UK",53.483959,-2.244644
+City,Bristol,"Bristol, UK",51.454514,-2.58791
+City,Wolverhampton,"Wolverhampton, West Midlands, UK",52.59137,-2.110748
+City,Preston,"Preston, Lancashire, UK",53.765762,-2.692337
+City,Bournemouth,"Bournemouth, UK",50.720806,-1.904755
+City,Ayr,"Ayr, South Ayrshire, UK",55.458565,-4.629179
+City,Hastings,"Hastings, East Sussex, UK",50.854259,0.573453
+City,Bedford,"Bedford, UK",52.136436,-0.460739
+City,Basildon,"Basildon, Essex, UK",51.572376,0.470009
+City,Chippenham,"Chippenham, Wiltshire, UK",51.458057,-2.116074
+City,Birmingham,"Birmingham, West Midlands, UK",52.489471,-1.898575
+City,Folkestone,"Folkestone, Kent, UK",51.081398,1.169456
+City,Edinburgh,"Edinburgh, Scotland, UK",55.953251,-3.188267
+City,Southampton,"Southampton, UK",50.909698,-1.404351
+City,Belfast,"Belfast, Northern Ireland, UK",54.607868,-5.926437
+City,Uckfield,"Uckfield, East Sussex, UK",50.967941,0.085831
+City,Worthing,"Worthing, West Sussex, UK",50.825024,-0.383835
+City,Leeds,"Leeds, West Yorkshire, UK",53.801277,-1.548567
+City,Kendal,"Kendal, Cumbria, UK",54.328506,-2.74387
+City,Hull,"Hull, UK",53.747372,-0.338653
+City,Plymouth,"Plymouth, UK",50.376289,-4.143841
+City,Haverhill,"Haverhill, Suffolk, UK",52.080875,0.444517
+City,Frankton,"Frankton, Warwickshire, UK",52.328415,-1.377561
+City,Inverness,"Inverness, UK",57.477772,-4.224721
